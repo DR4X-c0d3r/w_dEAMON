@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     
-  ![cooltext483602136796970](https://github.com/user-attachments/assets/300d0817-2109-431f-abe2-acc75bec4799)
+  ![cooltext483971394749452](https://github.com/user-attachments/assets/c890fff2-3475-47fc-9b1b-8e1594ac11d3)
 </p>
 </div>
 
