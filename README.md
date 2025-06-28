@@ -30,7 +30,12 @@ USAGE:
 > $ w_dEAMON -u exemple.com -w wordlist
 
 ![start_fuzz](https://github.com/user-attachments/assets/eea97427-2f30-4399-b143-321d611ab260)
+
 **Please If Any Problem Happend Tell Me In The Server Channel =>** [https://discord.gg/Hunt3rs](https://discord.gg/Cw6YZgqGzS)
+
+**YouTube =>** https://youtube.com/fr4nc0x1
+
+**TryHackMe =>** https://tryhackme.com/p/DR4X
 
 That's It For Now And I Hope This Tool Makes Your Day Awesome, Remember With Great Power Comes Great Responsibility!
 
